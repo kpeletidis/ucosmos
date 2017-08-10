@@ -10,5 +10,6 @@
 
 #include <stdlib.h>
 #include <stdio.h>
+#include "uc_node.h"
 
 #endif  /* __UCOSMOS_H */
